@@ -3,3 +3,4 @@
 2.https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 3.Palindrome
 4.Fibonacci series https://leetcode.com/problems/fibonacci-number/
+5.Reverse a string
